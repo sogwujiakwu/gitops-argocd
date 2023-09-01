@@ -16,7 +16,7 @@ spec:
         app: solar-system
     spec:
       containers:
-      - image: sogwujiakwu/solar-system:15-dd6a5d7f978132fdb19f24e3e60b0846b881a9c9
+      - image: sogwujiakwu/solar-system:16-4ae53b4325ba1f4ebbccf1c0048f0d1c36cdfed3
         name: solar-system
         ports: 
         - containerPort: 80
